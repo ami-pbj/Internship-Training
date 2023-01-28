@@ -54,3 +54,5 @@ console.log(typeof(num));
 // Data Type of JavaScript => w3school
 // String, Number, Bigint(large number), Boolean(true or false), Undefined, Symbol, Object( key value pair => {key:'value'}), Array(block of memory holding different data type)
 
+
+
