@@ -7,19 +7,19 @@
 // row or column count
 let n = 5;
 // defining an empty string
-let string = "";
+let printPattern = "";
 
 for(let i = 0; i < n; i++) {
     // external loop
     for(let j = 0; j < n; j++) {
         // internal loop
-        string += "*";
+        printPattern += "*";
     }
     // newline after each row
-    string += "\n";
+    printPattern += "\n";
 }
 // printing the string
-console.log(string);
+console.log(printPattern);
 
 
 
