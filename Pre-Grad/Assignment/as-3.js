@@ -4,6 +4,27 @@
 
 
 
+// row or column count
+let n = 5;
+// defining an empty string
+let string = "";
+
+for(let i = 0; i < n; i++) {
+    // external loop
+    for(let j = 0; j < n; j++) {
+        // internal loop
+        string += "*";
+    }
+    // newline after each row
+    string += "\n";
+}
+// printing the string
+console.log(string);
+
+
+
+
+// print pyramid pattern using function 
 function printPyramidPattern(n) { 
     // Input the number of rows
     for (var i = 1; i <= n; i++) {
