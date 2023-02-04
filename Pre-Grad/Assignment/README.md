@@ -1,14 +1,14 @@
 ## Latest Update - Assignment-3
 
 ## Assignment-3
-### Print Pattern in JavaScript
+### 3. Print Pattern in JavaScript
 
 
 ![image](https://user-images.githubusercontent.com/95628601/216774568-fc4a80fc-19a4-47bb-b779-f02f12cd61bd.png)
 
 
 ## Assignment-2
-### Added Style in Assignment-1
+### 2. Added Style in Assignment-1
 
 **Included :**
 
@@ -28,7 +28,7 @@
 
 ## Assignment-1
 
-### Create a copy of http://info.cern.ch/hypertext/WWW/TheProject.html using html tags only. Redirect links to another page or any other random link like google.com.
+### 1. Create a copy of http://info.cern.ch/hypertext/WWW/TheProject.html using html tags only. Redirect links to another page or any other random link like google.com.
 
 
 
