@@ -1,0 +1,35 @@
+.gradient__text_a {
+    --gradient-text-a: linear-gradient(89.97deg, #3f68ef 1.84%, #25ff7c 26.67%);
+    
+    background: var(--gradient-text-a);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    }
+    
+    
+    .s-a{
+    color: #d9f908;
+    /* margin-left: 10px; */
+    background-color: #000000;
+    }
+    
+    
+    .style-a{
+        background: rgba(151, 189, 162, 0.321);
+        border-radius: 20px;
+        box-shadow: 0 0px 50px rgba(111, 236, 147, 0.2);
+        border: 1px solid rgba(4, 94, 15, 0.3);
+        padding: 40px 40px;
+        font-size: 20px;
+        /* margin-left: 35px; */
+        margin-top: 40px;
+        display: flex;
+        /* flex: 1; */
+        justify-content: start;
+        justify-items: right;
+        align-items: start;
+        flex-direction: column;
+        text-align: left;
+    }
+    

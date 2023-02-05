@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+# Internship-Training
+
+All about Internships and Trainings
+=======
 ## Latest Update - Assignment-3
 
 
@@ -36,3 +41,4 @@
 
 
 ![image](https://user-images.githubusercontent.com/95628601/216774676-3bd0a2ee-eb19-4a23-9c12-481c5e7ca2ad.png)
+>>>>>>> 1dc3ee5 (added assignment 3)
