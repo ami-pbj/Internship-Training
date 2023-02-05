@@ -3,7 +3,6 @@
 // var size = prompt("Enter the size of the pyramid");
 
 
-
 // row or column count
 let n = 5;
 // defining an empty string
@@ -13,7 +12,7 @@ for(let i = 0; i < n; i++) {
     // external loop
     for(let j = 0; j < n; j++) {
         // internal loop
-        printPattern += "*";
+        printPattern += "* ";
     }
     // newline after each row
     printPattern += "\n";
@@ -22,6 +21,22 @@ for(let i = 0; i < n; i++) {
 console.log(printPattern);
 
 
+// print pyramid pattern
+let rows = 5;
+let printPyramid = "";
+// External loop
+for (let i = 1; i <= rows; i++) {
+  // printing spaces
+  for (let j = 1; j <= rows - i; j++) {
+    printPyramid += " ";
+  }
+  // printing star
+  for (let k = 0; k < 2 * i - 1; k++) {
+    printPyramid += "*";
+  }
+  printPyramid += "\n";
+}
+console.log(printPyramid);
 
 
 // print pyramid pattern using function 
@@ -38,4 +53,5 @@ function printPyramidPattern(n) {
     }
 }
 
-printPyramidPattern(4);
+printPyramidPattern(5);
+
