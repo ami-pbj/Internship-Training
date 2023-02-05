@@ -5,8 +5,7 @@
 ### 3. Print Pattern in JavaScript
 
 
-![image](https://user-images.githubusercontent.com/95628601/216774568-fc4a80fc-19a4-47bb-b779-f02f12cd61bd.png)
-
+![image](https://user-images.githubusercontent.com/95628601/216825347-42556f53-120d-4741-b55c-484a4c005fbc.png)
 
 
 
